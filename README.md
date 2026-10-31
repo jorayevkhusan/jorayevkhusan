@@ -42,11 +42,15 @@
 <h2 align="center">Statistics</h2>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jorayevkhusan&label=PROFILE+VIEWS&style=for-the-badge&color=0284c7" alt="Profile Views" />
+</p>
+
+<p align="center">
   <a href="https://github.com/jorayevkhusan">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jorayevkhusan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090b0e&title_color=38bdf8&text_color=94a3b8&icon_color=ff5500" alt="Khusan's GitHub stats" height="175" />
   </a>
-  <a href="https://github.com/jorayevkhusan">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jorayevkhusan&layout=compact&theme=tokyonight&hide_border=true&bg_color=090b0e&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" height="175" />
+  <a href="https://github.com/jorayevkhusan/CS2-Master-Engine">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=jorayevkhusan&repo=CS2-Master-Engine&theme=tokyonight&hide_border=true&bg_color=090b0e&title_color=38bdf8&text_color=94a3b8&icon_color=ff5500" alt="Featured Project" height="175" />
   </a>
 </p>
 
